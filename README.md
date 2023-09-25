@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">A developer from Chile</h3>
 
-- 🔭 I’m currently working on **various simple apps.**
+- 🔭 I’m currently working on **various personal projects.**
 
-- 🌱 I’m currently learning **JS, React specifically.**
+- 🌱 I’m currently learning **JS, React and Ruby on Rails**
 
 - 📫 How to reach me **sebastianmartig@gmail.com**
 
